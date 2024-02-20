@@ -1,0 +1,30 @@
+.div1{
+    display: inline;
+    margin-top: 10px;
+    background-color: antiquewhite;
+}
+.div5{
+    display: inline;
+    margin-top: 10px;
+    background-color: antiquewhite;
+}
+.div2{
+    display: block;
+    margin-top: 10px;
+    height: 100px;
+    background-color:tomato;
+}
+.div3{
+    display: inline-block;
+    margin-top: 10px;
+    height: 100px;
+    width:100px;
+    background-color:turquoise;
+}
+.div4{
+    display: inline-block;
+    margin-top: 10px;
+    height: 100px;
+    width:100px;
+    background-color:thistle
+}
